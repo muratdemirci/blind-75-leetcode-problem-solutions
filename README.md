@@ -1,3 +1,21 @@
+<a name="readme-top"></a>
+
+## Table of Contents
+
+- [About The Project](#about-the-project)
+- [Installation](#installation)
+- [Categories](#categories)
+  - [Array](#array)
+  - [Binary](#binary)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Graph](#graph)
+  - [Interval](#interval)
+  - [Linked List](#linked-list)
+  - [Matrix](#matrix)
+  - [String](#string)
+  - [Tree](#tree)
+  - [Heap](#heap)
+
 # About The Project
 
 This project aims to provide solutions to [Blind 75 Leetcode problems](https://gist.github.com/muratdemirci/b48857684d982c352650adcd12991fb5) using TypeScript. Additionally, unit tests have been written for each solution.
